@@ -1,0 +1,25 @@
+name: Suggestion
+description: 'Request a mod to add compatibility with!'
+title: '[Suggestion]: '
+assignees:
+  - Fyoncle
+labels:
+  - suggestion
+body:
+  - type: input
+    id: mod_name
+    attributes:
+      label: Mod Name
+      description: What mod should be added for compatibility?
+      placeholder: Galosphere
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Which mobs you want it to be added?
+      description: A clear explanation of what mobs this mob contains that is suitable for Spawn Animations.
+      placeholder: >-
+        This mod adds new entities that would look great with spawn animations.
+    validations:
+      required: true
