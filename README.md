@@ -18,8 +18,8 @@
 - [The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric)
 
 <div align="center">
-<a href="https://github.com/Fyoncle/Elysium-Days/issues" rel="noopener nofollow ugc">
+<a href="https://github.com/Fyoncle/spawnanimations-compats" rel="noopener nofollow ugc">
 <img src="https://wsrv.nl/?url=https://i.ibb.co/N9s5hz1/github.png" alt="GitHub"></a> 
   
-The mod you need compatibility for isn't there? **Open a suggestion on GitHub!**
+The mod you need compatibility for isn't there? **Open a suggestion on [GitHub](https://github.com/Fyoncle/spawnanimations-compats/issues/new?template=suggestions.yml)!**
 </div>
