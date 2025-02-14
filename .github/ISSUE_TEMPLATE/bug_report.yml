@@ -28,7 +28,7 @@ body:
     validations:
       required: true
   - type: input
-    id: et_version
+    id: sa_version
     attributes:
       label: Spawn Animations version
       description: >-
@@ -36,8 +36,8 @@ body:
       placeholder: v1.10
     validations:
       required: true
-        - type: input
-    id: et_version
+  - type: input
+    id: sa_compats_version
     attributes:
       label: Spawn Animations Compats version
       description: >-
