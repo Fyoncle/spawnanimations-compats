@@ -1,4 +1,4 @@
-## This datapack adds Spawn Animations compatibility to the modded entities.
+## This datapack adds [Spawn Animations](https://modrinth.com/datapack/spawn-animations) compatibility to the modded entities.
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/c83cdb92dfd28a44a0f1693be7a1006a51d37b2d.png)
 #
