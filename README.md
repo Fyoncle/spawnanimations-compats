@@ -17,6 +17,7 @@
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric)
 - [Skeletal Remains](https://modrinth.com/mod/skeletal-remains)
+- [The Aether](https://modrinth.com/mod/aether)
 - [Paradise Lost](https://modrinth.com/mod/paradise-lost)
 
 <div align="center">
