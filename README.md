@@ -16,6 +16,7 @@
 - [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)
 - [Ad Astra](https://modrinth.com/mod/ad-astra)
 - [The Bumblezone](https://modrinth.com/mod/the-bumblezone-fabric)
+- [Variants & Ventures](https://modrinth.com/mod/variants-and-ventures)
 - [Skeletal Remains](https://modrinth.com/mod/skeletal-remains)
 - [The Aether](https://modrinth.com/mod/aether)
 - [Paradise Lost](https://modrinth.com/mod/paradise-lost)
