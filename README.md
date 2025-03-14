@@ -20,7 +20,6 @@
 - [Skeletal Remains](https://modrinth.com/mod/skeletal-remains)
 - [The Aether](https://modrinth.com/mod/aether)
 - [Paradise Lost](https://modrinth.com/mod/paradise-lost)
-- [Bygone Nether](https://modrinth.com/mod/bygone-nether)
 
 <div align="center">
 <a href="https://github.com/Fyoncle/spawnanimations-compats" rel="noopener nofollow ugc">
