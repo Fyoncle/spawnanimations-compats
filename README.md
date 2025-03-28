@@ -20,6 +20,10 @@
 - [Skeletal Remains](https://modrinth.com/mod/skeletal-remains)
 - [The Aether](https://modrinth.com/mod/aether)
 - [Paradise Lost](https://modrinth.com/mod/paradise-lost)
+- [Dungeon Now Loading](https://modrinth.com/mod/dungeon-now-loading)
+- [Aquamirae](https://modrinth.com/mod/aquamirae)
+- [Biome Makeover](https://modrinth.com/mod/biome-makeover)
+- [Bewitchment](https://modrinth.com/mod/bewitchment)
 
 <div align="center">
 <a href="https://github.com/Fyoncle/spawnanimations-compats" rel="noopener nofollow ugc">
