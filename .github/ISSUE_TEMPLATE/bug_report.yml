@@ -6,19 +6,6 @@ assignees:
 labels:
   - bug
 body:
-  - type: dropdown
-    id: loader
-    attributes:
-      label: Loader
-      description: Which loader are you using?
-      options:
-        - Datapack
-        - Fabric
-        - Forge
-        - Quilt
-        - NeoForge
-    validations:
-      required: true
   - type: input
     id: minecraft
     attributes:
