@@ -24,6 +24,7 @@
 - [Aquamirae](https://modrinth.com/mod/aquamirae)
 - [Biome Makeover](https://modrinth.com/mod/biome-makeover)
 - [Bewitchment](https://modrinth.com/mod/bewitchment)
+- [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)
 
 <div align="center">
 <a href="https://github.com/Fyoncle/spawnanimations-compats" rel="noopener nofollow ugc">
