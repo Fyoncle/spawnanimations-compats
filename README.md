@@ -2,6 +2,14 @@
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/c83cdb92dfd28a44a0f1693be7a1006a51d37b2d.png)
 
+<div align="center">
+
+<a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
+  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg" alt="As seen in Elysium Days">
+</a>
+
+</div>
+
 #
 
 ### Compatibility List:
@@ -120,7 +128,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/the-bumblezone-fabric">
-        <img src="https://cdn.modrinth.com/data/eA8SXqWL/e968da573ea2b8d9d052de9d543b67371f5fdd98.png" width="32">
+        <img src="https://cdn.modrinth.com/data/eA8SXqWL/df51606c81b979611259890f4a9bb68e4c45aeb9.png" width="32">
       </a>
     </td>
     <td>
@@ -130,7 +138,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/variants-and-ventures">
-        <img src="https://cdn.modrinth.com/data/lNDRiXkY/7314502cdc8095e86d3c8a8820914bfcfd1b4600_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/lNDRiXkY/bd6e91737946cf99c155c94108e98df8248e3078_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -145,6 +153,16 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/skeletal-remains">Skeletal Remains</a></b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://modrinth.com/mod/tiny-skeletons">
+        <img src="https://cdn.modrinth.com/data/A2xcMSUn/97c81f9c59f750725ad2177c74fa1d04f703287b_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/tiny-skeletons">Tiny Skeletons</a></b>
     </td>
   </tr>
   <tr>
@@ -299,12 +317,12 @@
   </tr>
   <tr>
     <td>
-      <a href="https://modrinth.com/mod/underground-jungle">
+      <a href="https://modrinth.com/mod/underground-worlds">
         <img src="https://cdn.modrinth.com/data/g9fDJQZe/485e631c860290e77c1230758f187224a96fb562_96.webp" width="32">
       </a>
     </td>
     <td>
-      <b><a href="https://modrinth.com/mod/underground-jungle">Underground Jungle</a></b>
+      <b><a href="https://modrinth.com/mod/underground-worlds">Underground Worlds</a></b>
     </td>
   </tr>
   <tr>
@@ -445,6 +463,56 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/nemos-creatures">Nemo's Creatures</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/zombies-more">
+        <img src="https://cdn.modrinth.com/data/GJ3fdTWI/17ee5f44189f8d62eafc69a2c489e38f193777ea_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/zombies-more">Zombies More</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/the-luminous-mod">
+        <img src="https://cdn.modrinth.com/data/HT2F6lNL/07deb8d2ceb25db3e885c8746de60254106568a6_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/the-luminous-mod">Luminous: Overworld</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/luminous-nether">
+        <img src="https://cdn.modrinth.com/data/2CL6BDdJ/9a78116c72e41acacad0163d2c63da1652e8beda_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/luminous-nether">Luminous: Nether</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/luminous-monsters">
+        <img src="https://cdn.modrinth.com/data/TzC3nDsQ/fa61acb8c308ba80404e11f8425523e558e47a42_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/luminous-monsters">Luminous: Monsters</a></b>
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <a href="https://modrinth.com/mod/luminous-beasts">
+        <img src="https://cdn.modrinth.com/data/fGCP5k6m/4ffa5ecf525e19f829d4ad962a9913dd4f81a0d1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/luminous-beasts">Luminous: Beasts</a></b>
     </td>
   </tr>
 </table>
