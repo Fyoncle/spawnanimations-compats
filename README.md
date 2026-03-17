@@ -168,7 +168,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/aether">
-        <img src="https://cdn.modrinth.com/data/YhmgMVyu/62975a496c6664dff0ac47994f02545cd109e2a9_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/YhmgMVyu/f76fada67156fdeab0974f5f791f936be524d5d3_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -488,7 +488,7 @@
    <tr>
     <td>
       <a href="https://modrinth.com/mod/luminous-nether">
-        <img src="https://cdn.modrinth.com/data/2CL6BDdJ/9a78116c72e41acacad0163d2c63da1652e8beda_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/2CL6BDdJ/715319e5a32131a08c7954dea60f674bc6e5dca6_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -513,6 +513,26 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/luminous-beasts">Luminous: Beasts</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/ends-phantasm">
+        <img src="https://cdn.modrinth.com/data/JGfljjtd/87262a2ee2887548c65e32e9462e15178abdcfa9_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/ends-phantasm">End's Phantasm</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/sleepy-hollows">
+        <img src="https://cdn.modrinth.com/data/d7LLnfx8/12457f815cb296966f691df6c51060bf5c8a94f7_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/sleepy-hollows">Sleepy Hollows</a></b>
     </td>
   </tr>
 </table>
