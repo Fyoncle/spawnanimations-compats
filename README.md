@@ -1,11 +1,11 @@
+<div align="center">
+
 ## This datapack adds [Spawn Animations](https://modrinth.com/datapack/spawn-animations) compatibility to the modded entities.
 
 ![Banner](https://cdn.modrinth.com/data/cached_images/c83cdb92dfd28a44a0f1693be7a1006a51d37b2d.png)
 
-<div align="center">
-
 <a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
-  <img src="https://wsrv.nl/?url=https://raw.githubusercontent.com/Fyoncle/Elysium-Days/ae9136ed921e408ba768262fb8afb24d9ad47d94/ed_vector.svg" alt="As seen in Elysium Days">
+  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days">
 </a>
 
 </div>
@@ -208,7 +208,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/aquamirae">
-        <img src="https://cdn.modrinth.com/data/k23mNPhZ/a079cd089a737244861b41eea6c15b6e7091cc90_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/k23mNPhZ/e33ffb391c8c05f1ea99b09d00d5369e0ac44ae7_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -258,7 +258,7 @@
   <tr>
     <td>
       <a href="https://modrinth.com/mod/caverns-and-chasms">
-        <img src="https://cdn.modrinth.com/data/tfjmPSbI/65705376c8a84a067c34ff2024bd78042d375def_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/tfjmPSbI/ef4fb6857f1f7257b84cbb127fc58f7d7a0f17f6_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -533,6 +533,36 @@
     </td>
     <td>
       <b><a href="https://modrinth.com/mod/sleepy-hollows">Sleepy Hollows</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/royalvariations">
+        <img src="https://cdn.modrinth.com/data/n2G0Tyys/82dcc22e49acd840287b153c1b148ace445c2d27_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/royalvariations">Royal Variations</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/species">
+        <img src="https://cdn.modrinth.com/data/s5d4P01r/6845c1fea0747daac810056c330faf5580ac9205_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/species">Species</a></b>
+    </td>
+  </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/opposing-force">
+        <img src="https://cdn.modrinth.com/data/oqwxmBF3/aef3072e759913f9479f4b01563dd04d7e8cc495_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/opposing-force">Opposing Force</a></b>
     </td>
   </tr>
 </table>
