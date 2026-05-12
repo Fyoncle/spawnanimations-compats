@@ -5,7 +5,7 @@
 ![Banner](https://cdn.modrinth.com/data/cached_images/c83cdb92dfd28a44a0f1693be7a1006a51d37b2d.png)
 
 <a href="https://modrinth.com/modpack/elysium-days" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="26%">
+  <img src="https://raw.githubusercontent.com/Fyoncle/Elysium-Days/main/ed_badge.png" alt="As seen in Elysium Days" width="200">
 </a>
 
 </div>
