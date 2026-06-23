@@ -10,7 +10,7 @@
 
 </div>
 
-#
+---
 
 ### Compatibility List:
 
@@ -565,9 +565,19 @@
       <b><a href="https://modrinth.com/mod/opposing-force">Opposing Force</a></b>
     </td>
   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/hominid">
+        <img src="https://cdn.modrinth.com/data/4whAQxB5/c3636c7215d0fb1ce55673be779bbc12c5b20ea1_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/hominid">Hominid</a></b>
+    </td>
+  </tr>
 </table>
 
-#
+---
 
 <div align="center">
 <a href="https://github.com/Fyoncle/spawnanimations-compats" rel="noopener nofollow ugc">
