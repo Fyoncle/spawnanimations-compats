@@ -478,7 +478,7 @@
    <tr>
     <td>
       <a href="https://modrinth.com/mod/the-luminous-mod">
-        <img src="https://cdn.modrinth.com/data/HT2F6lNL/07deb8d2ceb25db3e885c8746de60254106568a6_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/HT2F6lNL/8ded455c6c3657dc23dde2215dbf2f99cdbdff0e_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -488,7 +488,7 @@
    <tr>
     <td>
       <a href="https://modrinth.com/mod/luminous-nether">
-        <img src="https://cdn.modrinth.com/data/2CL6BDdJ/715319e5a32131a08c7954dea60f674bc6e5dca6_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/2CL6BDdJ/361c85863d1a66d0d369b6295220e25efae59ffc_96.webp" width="32">
       </a>
     </td>
     <td>
@@ -508,7 +508,7 @@
    <tr>
     <td>
       <a href="https://modrinth.com/mod/luminous-beasts">
-        <img src="https://cdn.modrinth.com/data/fGCP5k6m/4ffa5ecf525e19f829d4ad962a9913dd4f81a0d1_96.webp" width="32">
+        <img src="https://cdn.modrinth.com/data/fGCP5k6m/43148956a48e57f6f2b4536cbe9d3eed2e7727bc_96.webp" width="32">
       </a>
     </td>
     <td>
