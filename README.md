@@ -575,6 +575,16 @@
       <b><a href="https://modrinth.com/mod/hominid">Hominid</a></b>
     </td>
   </tr>
+     <tr>
+    <td>
+      <a href="https://modrinth.com/mod/regions-unexplored">
+        <img src="https://cdn.modrinth.com/data/Tkikq67H/e1e85f8a91f09154c2e822fd9a15e167c0230a31_96.webp" width="32">
+      </a>
+    </td>
+    <td>
+      <b><a href="https://modrinth.com/mod/regions-unexplored">Regions Unexplored</a></b>
+    </td>
+  </tr>
 </table>
 
 ---
